@@ -6,6 +6,9 @@ Scripts that I bind to function keys on my external keyboard to mimic the intern
 
 I'm trying to replicate the behaviour of the builtin media keys as closely as possible, down to modifier key behaviours.
 
+* F3 - `expose.scpt` - Expose key (Mission Control)
+* Cmd-F3 - `expose_cmd.scpt` - Cmd-Expose key (Show Desktop)
+* Ctrl-F3 - `expose_ctrl.scpt` - Ctrl-Expose key (Show application windows)
 * F7 - `prev_track` - skips iTunes/Spotify to the previous track
 * F8 - `playpause` - toggles play/pause in iTunes/Spotify
 * F9 - `next_track` - skips iTunes/Spotify to the next track
