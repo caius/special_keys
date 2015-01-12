@@ -19,6 +19,10 @@ I'm trying to replicate the behaviour of the builtin media keys as closely as po
 * F12 - `volume_up_major` - Increments volume by one bar
 * Shift-Alt-F12 - `volume_up_minor` - Increments volume by one fourth of a bar
 
+Here's a screenshot of my fastscripts preferences so you can see the mappings:
+
+![](fastscripts-preferences.png)
+
 ## License
 
 See LICENSE.
