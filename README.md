@@ -23,6 +23,10 @@ Here's a screenshot of my fastscripts preferences so you can see the mappings:
 
 ![](fastscripts-preferences.png)
 
+## Alfred integration
+
+* [Dave J]() ported these scripts to an [Alfred workflow](https://github.com/dvjones89/alfred-media-keys) if you're a fan of [Alfred](http://www.alfredapp.com) rather than using FastScripts.
+
 ## License
 
 See LICENSE.
