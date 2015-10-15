@@ -6,10 +6,3 @@ if application "iTunes" is running then
     return "itunes"
   end tell
 end if
-
-if application "Spotify" is running then
-  tell application "Spotify"
-    next track
-    return "spotify"
-  end tell
-end if
