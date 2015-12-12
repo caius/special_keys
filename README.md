@@ -27,6 +27,11 @@ Here's a screenshot of my fastscripts preferences so you can see the mappings:
 
 * [Dave J](http://dvj.me.uk) ported these scripts to an [Alfred workflow](https://github.com/dvjones89/alfred-media-keys) if you're a fan of [Alfred](http://www.alfredapp.com) rather than using FastScripts.
 
+## Installation for FastScripts
+
+    mkdir -p ~/Library/Scripts
+    git clone https://github.com/caius/special_keys ~/Library/Scripts/
+
 ## License
 
 See LICENSE.
