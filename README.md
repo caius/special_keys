@@ -6,18 +6,18 @@ Scripts that I bind to function keys on my external keyboard to mimic the intern
 
 I'm trying to replicate the behaviour of the builtin media keys as closely as possible, down to modifier key behaviours.
 
-* F3 - `expose.scpt` - Expose key (Mission Control)
-* Cmd-F3 - `expose_cmd.scpt` - Cmd-Expose key (Show Desktop)
-* Ctrl-F3 - `expose_ctrl.scpt` - Ctrl-Expose key (Show application windows)
-* F7 - `prev_track` - skips iTunes/Spotify to the previous track
-* F8 - `playpause` - toggles play/pause in iTunes/Spotify
-* F9 - `next_track` - skips iTunes/Spotify to the next track
-* F10 - `volume_mute_major` - Toggles volume mute
-* Shift-Alt-F18 - `volume_mute_minor` - Toggles volume mute (identical to `volume_mute_major` in fact)
-* F11 - `volume_down_major` - Decrements volume by one bar
-* Shift-Alt-F11 - `volume_down_minor` - Decrements volume by one fourth of a bar
-* F12 - `volume_up_major` - Increments volume by one bar
-* Shift-Alt-F12 - `volume_up_minor` - Increments volume by one fourth of a bar
+* `expose.scpt` - F3 - Expose key (Mission Control)
+* `expose_cmd.scpt` - Cmd-F3 - Cmd-Expose key (Show Desktop)
+* `expose_ctrl.scpt` - Ctrl-F3 - Ctrl-Expose key (Show application windows)
+* `next_track` - F9 - skips iTunes/Spotify to the next track
+* `playpause` - F8 - toggles play/pause in iTunes/Spotify
+* `prev_track` - F7 - skips iTunes/Spotify to the previous track
+* `volume_down_major` - F11 - Decrements volume by one bar
+* `volume_down_minor` - Shift-Alt-F11 - Decrements volume by one fourth of a bar
+* `volume_mute_major` - F10 - Toggles volume mute
+* `volume_mute_minor` - Shift-Alt-F10 - Toggles volume mute (identical to `volume_mute_major` in fact)
+* `volume_up_major` - F12 - Increments volume by one bar
+* `volume_up_minor` - Shift-Alt-F12 - Increments volume by one fourth of a bar
 
 Here's a screenshot of my fastscripts preferences so you can see the mappings:
 
